@@ -1,4 +1,4 @@
-function skillsmember() {
+function skillsMember() {
     return (
         <div className="skills">
             <h1>Skills</h1>
